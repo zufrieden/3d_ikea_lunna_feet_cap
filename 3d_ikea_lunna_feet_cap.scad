@@ -1,3 +1,13 @@
+/* ==========================================================
+ * 3d_ikea_lunna_feet_cap.scad
+ * OpenSCAD file for IKEA Lunna harmchair feet caps
+ *
+ * Authors: Xavier Alexandre and Marc Friederich
+ * Date:   2014-08-02 19:30:14
+ *
+ * Licensed under MIT
+ =========================================================== */
+
 // Dimensions en mm
 
 hauteur_bordure=40.69; // Hauteur du triangle fin
